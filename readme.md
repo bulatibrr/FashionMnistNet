@@ -1,0 +1,1 @@
+Beginner FashionMNIST classification project to get familiar with PyTorch.
